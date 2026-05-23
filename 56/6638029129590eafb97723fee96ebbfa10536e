@@ -1,0 +1,39 @@
+src/commands/await_stats.rs
+  s_171af660082a6e::t_e5e7595add7cdf 1-15,17-18,21,24,27-30,32-44,46,48,52,54-57,59-69,71-75,77-88,90-94,96-97,99,104-112,130-131,133-188,190,194-195,199-204,207-214,216-224,227-228,233-236,238-265,267-270,272-289,291-295,297-310,312-335,337-352,354-361,363-369
+  s_6afc38cb29221e::t_b6d57460301792 16,19-20,22-23,25-26,45,47,49,51,53,100-101,113-114,198,215,225-226
+  s_6afc38cb29221e::t_7f009afb4e7176 31,58,70,76,89,95,132,189,196,205,232,237,266,271,290,296,311,336,353,362
+  s_171af660082a6e::t_9fd2923add8d5f 50,191-193
+  s_0cb3016b25857c::t_d93c679924034c 229
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.4.12",
+  "base_commit_sha": "566638029129590eafb97723fee96ebbfa10536e",
+  "prompts": {},
+  "sessions": {
+    "s_0cb3016b25857c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e55f2-efae-7a03-86a6-edba2d632e1f",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Alex Buckley <alexmeb81@outlook.com>"
+    },
+    "s_171af660082a6e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e42b9-6487-7532-9db8-ca731e99ab98",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Alex Buckley <alexmeb81@outlook.com>"
+    },
+    "s_6afc38cb29221e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e43d6-fd5d-7082-bec6-02e137af7223",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Alex Buckley <alexmeb81@outlook.com>"
+    }
+  }
+}

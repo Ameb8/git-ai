@@ -1,0 +1,21 @@
+src/commands/mod.rs
+  s_171af660082a6e::t_d52b06652ca3a2 1
+src/commands/git_ai_handlers.rs
+  s_171af660082a6e::t_85ca31ca547e60 109-111,339-344
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.4.12",
+  "base_commit_sha": "878aaf08c7bd9af1b0103cbb9abc336154f5379f",
+  "prompts": {},
+  "sessions": {
+    "s_171af660082a6e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e42b9-6487-7532-9db8-ca731e99ab98",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Alex Buckley <alexmeb81@outlook.com>"
+    }
+  }
+}

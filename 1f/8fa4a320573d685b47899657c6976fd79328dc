@@ -1,0 +1,24 @@
+tests/integration/repos/test_repo.rs
+  s_171af660082a6e::t_ce3f7eca7ad9c8 897
+tests/integration/await_stats.rs
+  s_171af660082a6e::t_575fd3863c33b0 1-17,22-27,32-57,66-198,202-234
+  s_171af660082a6e::t_9fd2923add8d5f 18-21,28-31,58-65,199-201
+tests/integration/main.rs
+  s_171af660082a6e::t_ce92122d72d728 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.4.12",
+  "base_commit_sha": "1f8fa4a320573d685b47899657c6976fd79328dc",
+  "prompts": {},
+  "sessions": {
+    "s_171af660082a6e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e42b9-6487-7532-9db8-ca731e99ab98",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Alex Buckley <alexmeb81@outlook.com>"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+src/commands/await_stats.rs
+  s_0cb3016b25857c::t_d93c679924034c 30-39,108-125,129-130,142-143,211,220,246-269
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.4.12",
+  "base_commit_sha": "193a174bcda14cdc3a179efddc8cd92bd2898e8d",
+  "prompts": {},
+  "humans": {
+    "h_11a994996f9bb9": {
+      "author": "Alex Buckley <alexmeb81@outlook.com>"
+    }
+  },
+  "sessions": {
+    "s_0cb3016b25857c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e55f2-efae-7a03-86a6-edba2d632e1f",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Alex Buckley <alexmeb81@outlook.com>"
+    }
+  }
+}
